@@ -5,3 +5,13 @@ related to the DIY magnetron sputtering machine build by a group of students in 
 
 
 Status: Work in progress
+
+# dir tree
+
+## /mechanical
+
+3D models, schematics, FreeCAD projects
+
+## /electrical
+
+Electrical schematics, calculations, KiCad projects
